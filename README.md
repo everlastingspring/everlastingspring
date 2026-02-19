@@ -1,4 +1,4 @@
-# Hi, I'm Prashanth R R 👋
+# Hi, I'm Prashanth 👋
 
 **Backend Software Engineer** · Java · Spring Boot · Microservices · Kubernetes
 
