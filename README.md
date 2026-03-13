@@ -8,13 +8,8 @@ Bengaluru, India · [prashanth.is-a.dev](https://prashanth.is-a.dev)
 
 ## 🧑‍💻 About Me
 
-I'm a backend engineer with **4+ years of experience** building scalable microservices for **healthcare** and **fintech** domains. I've designed APIs for clinical communication platforms at Oracle Cerner and built high-throughput transaction engines processing 100K+ records monthly at DBS Bank.
-
+I'm a backend engineer with **4+ years of experience** building scalable microservices for **healthcare** and **fintech** domains. 
 I focus on writing systems that are **reliable, observable, and easy to reason about** — not just systems that work.
-
-- 🏥 Built REST APIs for **Cerner CareAware Connect** — a real-time clinical communication platform used by hospital doctors, nurses, and caregivers
-- 🏦 Built a **JSON transaction engine at DBS Bank** handling 100K+ monthly customer transactions
-- ☸️ Currently building cloud-native microservices with **Spring Cloud, Kafka, Kubernetes, and Prometheus**
 
 ---
 
@@ -59,20 +54,6 @@ I focus on writing systems that are **reliable, observable, and easy to reason a
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-
----
-
-## 📜 Certifications
-
-- 🏅 **Oracle Certified Associate, Java 8 Programmer** — Oracle, Dec 2019
-- ☸️ **Master Microservices with Spring Boot, Docker, Kubernetes** — Udemy, Feb 2025
-- 🔐 **Spring Security 6: Zero to Master (JWT, OAuth2)** — Udemy, Jan 2025
-
----
-
-## 🏆 Awards
-
-- 🥇 **DBS C2 Peer Recognition Award** — Recognised for outstanding performance and 20% improvement in delivery efficiency at DBS Bank
 
 ---
 
