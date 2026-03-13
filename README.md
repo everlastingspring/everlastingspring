@@ -2,7 +2,7 @@
 
 **Backend Software Engineer** · Java · Spring Boot · Microservices · Kubernetes
 
-Bengaluru, India · [LinkedIn](https://linkedin.com/in/prashanthrr) · [Blog](https://hashnode.com/@digitalspace) · [X](https://x.com/prashantprashh)
+Bengaluru, India · [prashanth.is-a.dev](https://prashanth.is-a.dev) 
 
 ---
 
@@ -62,31 +62,6 @@ I focus on writing systems that are **reliable, observable, and easy to reason a
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏦 [MicroServices-Bank](https://github.com/everlastingspring/MicroServices-Bank)
-> Production-grade distributed banking platform built across 14 iterative versions
-
-A complete microservices ecosystem covering every layer of a real production system:
-
-| Pattern | Implementation |
-|---|---|
-| Service Discovery | Netflix Eureka |
-| API Gateway | Spring Cloud Gateway |
-| Config Management | Spring Cloud Config + Spring Cloud Bus |
-| Fault Tolerance | Resilience4j — Circuit Breaker, Retry, Rate Limiter |
-| Messaging | Apache Kafka |
-| Distributed Tracing | Micrometer + Zipkin |
-| Metrics & Dashboards | Prometheus + Grafana |
-| Security | Spring Security 6, JWT, OAuth2 |
-| Deployment | Docker, Kubernetes, Helm |
-
-Built iteratively — `appv1` starts with basic Spring Boot, `appv_14` is the fully integrated production-ready system.
-
-**`Java`** **`Spring Boot`** **`Spring Cloud`** **`Kafka`** **`Kubernetes`** **`Helm`** **`Prometheus`**
-
----
-
 ## 📜 Certifications
 
 - 🏅 **Oracle Certified Associate, Java 8 Programmer** — Oracle, Dec 2019
@@ -98,29 +73,6 @@ Built iteratively — `appv1` starts with basic Spring Boot, `appv_14` is the fu
 ## 🏆 Awards
 
 - 🥇 **DBS C2 Peer Recognition Award** — Recognised for outstanding performance and 20% improvement in delivery efficiency at DBS Bank
-
----
-
-## 📊 GitHub Stats
-
-![Prashanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=everlastingspring&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=everlastingspring&layout=compact&theme=default&hide_border=true)
-
----
-
-## 📝 Writing
-
-I occasionally write about backend engineering, Java, and microservices on my blog:
-👉 [hashnode.com/@digitalspace](https://hashnode.com/@digitalspace)
-
----
-
-## 📬 Get In Touch
-
-- 💼 [LinkedIn — linkedin.com/in/prashanthrr](https://linkedin.com/in/prashanthrr)
-- 📧 prashanthrevallar03@gmail.com
-- 🐦 [X — @prashantprashh](https://x.com/prashantprashh)
 
 ---
 
