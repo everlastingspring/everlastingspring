@@ -56,5 +56,3 @@ I focus on writing systems that are **reliable, observable, and easy to reason a
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 ---
-
-*"Build systems that are correct first, fast second, and observable always."*
