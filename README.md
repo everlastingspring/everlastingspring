@@ -9,7 +9,7 @@ Bengaluru, India · [prashanth.is-a.dev](https://prashanth.is-a.dev)
 ## 🧑‍💻 About Me
 
 I'm a backend engineer with **~4 years of experience** building scalable microservices for **healthcare** and **fintech** domains. 
-I focus on writing systems that are **reliable, observable, and easy to reason about** — not just systems that work.
+I focus on writing systems that are **reliable, observable, and easy to reason about**
 
 ---
 
